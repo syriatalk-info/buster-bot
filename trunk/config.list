@@ -1,0 +1,19 @@
+DEFAULT_NICK = Cool+
+
+JABBER_ID = some_user@jabbrik.ru
+
+JABBER_PASS = 111
+
+ENABLE_ICQ = 0
+
+UIN = 632817265
+
+ICQ_PASS = none
+
+ADMIN_PASSWORD = any
+
+PUBLIC_LOG_DIR = log
+
+PRIVATE_LOG_DIR = privlog
+
+USE_SSL = 0
